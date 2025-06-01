@@ -1,7 +1,3 @@
-Here’s a clean and informative `README.md` for the LeetCode problem **2667. Create Hello World Function**:
-
----
-
 # 2667. Create Hello World Function
 
 ### 🔗 LeetCode Link
