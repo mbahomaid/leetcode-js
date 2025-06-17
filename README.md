@@ -1,5 +1,6 @@
 # 🧠 leetcode-js
-![leetcode-js](https://github.com/user-attachments/assets/f6d3ee42-cac6-4872-a754-808ac471c6df)
+![leetcode-js](https://github.com/user-attachments/assets/31bd8cd8-d1aa-411a-8198-b60f0d43ce3a)
+
 
 > 💡 Clean, modern JavaScript solutions to LeetCode problems — built for clarity, learning, and growth.
 
